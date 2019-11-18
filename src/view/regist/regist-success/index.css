@@ -1,0 +1,21 @@
+.succ-outer{
+    margin: 200px auto;
+    width:500px;
+    height:auto;
+    /*background-color: #7f989e;*/
+    text-align: center;
+}
+.succ-outer h1{
+    color: #008000;
+}
+.succ-outer h2{
+    color: #1E1E1E;
+}
+.succ-outer h3{
+    color: #666666;
+}
+.succ-btn{
+    height:45px;
+    font-size: 16px;
+    font-weight: bold;
+}

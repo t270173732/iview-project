@@ -1,0 +1,30 @@
+.table_record {
+    border: solid #E4E4E4;
+    border-width: 1px 0 0 1px;
+    font-size: 14px;
+    width:450px
+}
+
+.table_record_th{
+    width:100px;
+    border: solid #E4E4E4;
+    border-width: 0px 1px 1px 0px;
+    padding: 10px;
+    text-align: right;
+}
+
+.table_record_td {
+    border: solid #E4E4E4;
+    border-width: 0px 1px 1px 0px;
+    padding: 5px;
+    line-height: 25px;
+    font-size: 14px;
+}
+
+.bg_color{
+    background-color:#F9FAFC;
+}
+
+.text_center{
+    text-align: center;
+}

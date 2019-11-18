@@ -1,0 +1,66 @@
+.drugDiv{
+    /*width: 25%;*/
+    float: left;
+    border-right: 1px solid #ddd;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+}
+.drugDiv-padding{
+    padding: 7px 2px 7px 2px;
+}
+.drugDiv-last{
+    border-right:0
+}
+.drugDiv-border-top{
+    border-top:1px solid #ddd;
+}
+.drugDiv-text{
+    text-align: left;
+}
+.drugDiv-outer{
+    margin:-7px -8px;
+    padding: 0;
+}
+.recipe{
+    width: 600px
+}
+.recipe-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+}
+.recipe>tr{
+    border-top: 1px solid #333
+}
+.recipe>tr:nth-of-type(1){
+    border-top: 0
+}
+.recipe>tr:nth-of-type(2){
+    border-top: 0
+}
+.recipe>tr>td{
+    font-size:14px;
+    padding: 5px;
+}
+.recipe-text{
+    font-size:18px;
+    padding: 5px;
+    text-indent:2em;
+}
+.recipe-text:nth-of-type(odd){
+    margin-top: 10px;
+}
+.recipe-text:nth-of-type(even){
+    padding-top: 0;
+}
+.recipe-text:first-of-type{
+    margin-top: 0;
+}
+.recipe-text:last-of-type{
+    margin-bottom: 20px;
+}
+.recipe-text-bold{
+    font-weight: bold
+}
+

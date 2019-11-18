@@ -1,0 +1,30 @@
+.registType{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 200px;
+    width: 500px;
+    margin-top: -100px;
+    margin-left: -250px;
+}
+.registType div{
+    width:220px;
+    height: 200px;
+    background-color: #F6F7F9;
+    font-size: 24px;
+    color: #666666;
+    font-weight: bold;
+    text-align: center;
+    line-height: 200px;
+    float:left;
+}
+.maginLeft{
+    margin-left: 20px;
+}
+.registType-store i{
+    margin-right: 5px;
+}
+.registType-store:hover{
+    cursor: pointer;
+    color:#2d8cf0;
+}
